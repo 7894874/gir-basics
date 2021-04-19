@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GithubRepository.iml" filepath="$PROJECT_DIR$/.idea/GithubRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-lambda-unzip-s3-java/aws-java-lambda-unzip.iml" filepath="$PROJECT_DIR$/aws-lambda-unzip-s3-java/aws-java-lambda-unzip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binance-java-api/binance-api-client.iml" filepath="$PROJECT_DIR$/binance-java-api/binance-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binance_Futures_Java/binance-client.iml" filepath="$PROJECT_DIR$/Binance_Futures_Java/binance-client.iml" />
     </modules>
   </component>
 </project>
