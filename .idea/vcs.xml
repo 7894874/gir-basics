@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Binance_Futures_Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Binance_Futures_Java2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/aws-lambda-unzip-s3-java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/binance-api-node" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/binance-api-postman" vcs="Git" />
