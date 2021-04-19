@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Binance_Futures_Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aws-lambda-unzip-s3-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binance-api-node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binance-api-postman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binance-java-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binance-public-data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binance-signature-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binance-spot-api-docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-binance-api" vcs="Git" />
+  </component>
+</project>
