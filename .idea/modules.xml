@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/aws-lambda-unzip-s3-java/aws-java-lambda-unzip.iml" filepath="$PROJECT_DIR$/aws-lambda-unzip-s3-java/aws-java-lambda-unzip.iml" />
       <module fileurl="file://$PROJECT_DIR$/binance-java-api/binance-api-client.iml" filepath="$PROJECT_DIR$/binance-java-api/binance-api-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binance_Futures_Java/binance-client.iml" filepath="$PROJECT_DIR$/Binance_Futures_Java/binance-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trynewmodule/trynewmodule.iml" filepath="$PROJECT_DIR$/trynewmodule/trynewmodule.iml" />
     </modules>
   </component>
 </project>
